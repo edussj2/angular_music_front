@@ -1,4 +1,10 @@
 # AngularMusic
+Desarrollado con Angular en el curso de Angular básico de Leifer Mendez en Udemy.
+
+<p align="center">
+  <img src="./screens/login.png" width="350" title="Login">
+  <img src="./screens/canciones.png" width="350" alt="Canciones">
+</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
 
