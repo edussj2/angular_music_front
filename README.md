@@ -2,8 +2,8 @@
 Desarrollado con Angular en el curso de Angular básico de Leifer Mendez en Udemy.
 
 <p align="center">
-  <img src="src/assets/screens/login.PNG" width="350" title="Login">
-  <img src="src/assets/screens/canciones.PNG" width="350" alt="Canciones">
+  <img src="src/assets/screens/login.PNG" width="380" title="Login">
+  <img src="src/assets/screens/canciones.PNG" width="380" alt="Canciones">
 </p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
